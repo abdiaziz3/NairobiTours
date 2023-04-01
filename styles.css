@@ -90,7 +90,7 @@ h3 {
 .description {
     opacity: 0;
     position: absolute;
-    top:100px;
+    bottom:2px;
     margin: auto;
     background-color: whitesmoke;
 }
@@ -98,6 +98,7 @@ h3 {
 .activityCard:hover > .description {
     opacity: 1;
 }
+
 
 /* this is for the business card Section */
 
