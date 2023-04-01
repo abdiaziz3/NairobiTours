@@ -1,4 +1,4 @@
-# NairobiTours
+# NairobiTours https://nairobitours.netlify.app/ 
 This is a simple webpage that showcases Nairobi as a tourist destination, featuring three recommended activities to do in the city: safari tours, trying out the diverse local cuisine, and immersing oneself in the rich culture of the Masai people. 
 
 The hero section provides an overview of what Nairobi has to offer, while the activities section showcases the three main attractions. 
